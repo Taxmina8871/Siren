@@ -1,0 +1,22 @@
+# Simple Calculator in Python
+This is a simple calculator program written in Phyton.
+It can perform basic arithmetic operations.
+# Features 
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Continuous mode(run multiple times)
+- Exit option
+ # Texnologies
+ Phyton 3
+ # How to run
+ 1. Make sure Phyton is installed on your system
+ 2. Clone this to repository or download the file
+ 3. Run the program using :
+ʼʼʼbash
+phyton calculator.py
+
+AUTHOR
+•name:Taxmina
+ 
